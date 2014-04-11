@@ -54,5 +54,5 @@
     <access origin="http://gatolocostudios.com/MobileCDC/*" />
     <access origin="http://cdc.gatolocostudios.com/VersionMobile/*" />
     <access origin="http://cdc.gatolocostudios.com/*" />
-    <access origin="http://www.w3.org/2011/web-apps-ws/papers/*" />
+    <access origin="http://www.i-drain.net/userfiles/file/*" />
 </widget>
